@@ -1,0 +1,21 @@
+{
+  "name": "us-validation",
+  "version": "0.0.0",
+  "description": "Validation",
+  "main": "validation.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danhart/us-validation.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^1.21.5"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --recursive"
+  },
+  "author": "",
+  "license": "ISC"
+}
